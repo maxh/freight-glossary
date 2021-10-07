@@ -8,6 +8,13 @@
     {% for link in page.links %}
         <a href="{{ link }}">{{ link }}</a>
     {% endfor %}
+
+    <br /> 
+    <br /> 
+
+    {% for image in page.images %}
+      <img src="/images/{{image}}"></img>
+    {% endfor %}    
 {% endcapture %}
 
 {% include base.html %}

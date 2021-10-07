@@ -1,6 +1,8 @@
 ---
 layout: term
 preview: movement of cargo over short distances
+images:
+  - drayage.jpg
 links:
   - https://en.wikipedia.org/wiki/Drayage
   - https://www.withvector.com/blog/post/what-is-drayage

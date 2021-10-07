@@ -6,10 +6,6 @@ domain: freightglossary.com
 url: https://freightglossary.com
 github_username:  maxh
 
-theme: minima
-plugins:
-  - jekyll-feed
-
 exclude:
   - .sass-cache/
   - .jekyll-cache/

@@ -1,4 +1,5 @@
 ---
+title: drayage
 layout: term
 preview: movement of cargo over short distances
 images:

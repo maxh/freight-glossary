@@ -1,5 +1,5 @@
 ---
-title: container yard
+title: Container Yard
 layout: term
 preview: a place where containers are stored
 links:

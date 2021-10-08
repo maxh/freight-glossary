@@ -1,5 +1,5 @@
 ---
-title: last free day
+title: Last Free Day
 layout: term
 preview: the last free day for container storage at destination terminal 
 links:

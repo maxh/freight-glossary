@@ -1,5 +1,5 @@
 ---
-title: pre-pull
+title: Pre-Pull
 layout: term
 preview: caching of a container between port and final delivery
 links:

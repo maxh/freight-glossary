@@ -1,5 +1,6 @@
 ---
-title: OD pair
+title: Origin-Destination Pair
+alias: OD pair
 layout: term
 preview: origin-destination pair
 links:

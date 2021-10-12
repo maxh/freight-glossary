@@ -1,5 +1,6 @@
 ---
 title: Container Yard
+alias: CY
 layout: term
 preview: a place where containers are stored
 links:

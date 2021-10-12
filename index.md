@@ -7,7 +7,13 @@ This is a small site maintained by Max Heinritz to keep track of the freight con
 <ul>
   {% for term in site.terms %}
     <li>
-      <a href="{{ term.url }}">{{ term.title }}</a> - {{ term.preview }}
+      <a href="{{ term.url }}">
+      {{ term.title }}
+      {% if term.alias %}
+        ({{ term.alias }})
+      {% endif %}
+      </a>
+      - {{ term.preview }}
     </li>
   {% endfor %}
 </ul>

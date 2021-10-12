@@ -1,6 +1,6 @@
 ---
 title: Container Freight Station
-acronym: CFS
+alias: CFS
 layout: term
 preview: a warehouse for freight consolidation/deconsolidation
 links:

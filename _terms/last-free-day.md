@@ -2,9 +2,9 @@
 title: Last Free Day
 alias: LFD
 layout: term
-preview: the last free day for container storage at destination terminal 
+preview: the last free day before a fee is charged
 links:
   - https://www.shippabo.com/logistics-knowledge/what-is-a-last-free-day
 ---
 
-When an ocean vessel arrives at port, containers are unloaded from the vessel and stored in a container yard. There is a grace period after the containers are unloaded where the terminal will store the containers at no marginal cost while awaiting the arrival of trucking carriers to pickup the containers. After a certain point, this grace period ends and the terminal will start charging money, called [demurrage](/terms/demurrage). The "last free day" is the last day before this charge begins.
+Refers to either [demurrage LFD](/terms/demurrage-last-free-day.md) or [detention LFD](/terms/detention-last-free-day.md). It should generally be clear from context which is being referenced. If unqualified, probably it means "demurrage LFD".

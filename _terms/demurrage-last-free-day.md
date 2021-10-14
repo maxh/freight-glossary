@@ -2,7 +2,7 @@
 title: Demurrage Last Free Day
 alias: Demurrage LFD
 layout: term
-preview: the last free day for container storage
+preview: the last free day for loaded container storage at port
 links:
   - https://www.shippabo.com/logistics-knowledge/what-is-a-last-free-day
 ---
